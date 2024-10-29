@@ -1,3 +1,10 @@
 h1 {
     color: brown;
 }
+
+p {
+    color: blueviolet;
+    font-weight: bold;
+    margin-top: 50px;
+}
+

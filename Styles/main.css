@@ -1,0 +1,19 @@
+h1 {
+  color: brown;
+}
+
+p {
+  color: blueviolet;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+div.parent {
+  color: antiquewhite;
+}
+div.parent:hover {
+  color: black;
+}
+div.parent .enfant {
+  color: orange;
+}/*# sourceMappingURL=main.css.map */

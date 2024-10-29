@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+
+p {
+    color: blueviolet;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+div.parent {
+    color: antiquewhite;
+    &:hover{
+        color: black;
+    }
+    .enfant {
+        color: orange;
+    }
+}
