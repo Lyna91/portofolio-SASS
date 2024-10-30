@@ -9,7 +9,7 @@ p {
 }
 
 div.parent {
-  color: antiquewhite;
+  color: aqua;
 }
 div.parent:hover {
   color: black;
