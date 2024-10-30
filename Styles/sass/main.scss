@@ -1,4 +1,6 @@
-@use "_typography";
+@import 'typography';
+@import 'layout';
+@import 'variables';
 
 h1 {
     color: brown;
